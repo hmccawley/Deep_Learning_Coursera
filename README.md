@@ -5,7 +5,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Introduction
 
-This repo contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
+This repo contains my work for this coursera deeplearning.AI specialization. 
 
 See below links to all completed programming assignments from the deeplearning.ai Coursera Specialization:
 
