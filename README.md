@@ -20,6 +20,11 @@ See below links to all completed programming assignments from the deeplearning.a
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
+  - [Week 1 - PA 1 - Initialization]()
+  - [Week 1 - PA 2 - Regularization]()
+  - [Week 1 - PA 3 - Gradient Checking]()
+  - [Week 2 - PA 1 - Optimization Methods]()
+  - [Week 3 - PA 1 - TensorFlow Tutorial]()
 
 - Course 3: Structuring Machine Learning Projects
 
