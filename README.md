@@ -15,7 +15,7 @@ See below links to all completed programming assignments from the deeplearning.a
 
   - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_1_neural_networks_and_deep_learning/Week_2_neural_network_basics/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
   - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_1_neural_networks_and_deep_learning/Week_3_shallow_neural_networks/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
-  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step]()
+  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_1_neural_networks_and_deep_learning/Week_4_deep_neural_networks/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
   - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application]()
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
