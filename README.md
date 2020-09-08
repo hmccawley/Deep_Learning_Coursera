@@ -1,4 +1,4 @@
-# # Deep Learning Specialization on Coursera
+# # DeepLearning.AI Specialization on Coursera
 
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
