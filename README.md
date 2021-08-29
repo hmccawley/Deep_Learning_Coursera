@@ -20,7 +20,6 @@ See below links to all completed programming assignments from the deeplearning.a
 - [Week 4 - PA 2 - Deep Neural Network for Image Classification: Application](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_1_neural_networks_and_deep_learning/Week_4_deep_neural_networks/Deep%20Neural%20Network%20Application:%20Image%20Classification/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
 
 ## Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-
 ### Programming Assignments
 - [Week 1 - PA 1 - Initialization](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_2_neural_networks_hyperparameter_tuning_regularization_optimization/week5/Initialization/Initialization.ipynb)
 - [Week 1 - PA 2 - Regularization](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_2_neural_networks_hyperparameter_tuning_regularization_optimization/week5/Regularization/Regularization_v2a.ipynb)
