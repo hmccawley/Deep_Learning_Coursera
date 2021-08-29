@@ -33,7 +33,7 @@ See below links to all completed programming assignments from the deeplearning.a
 ### Programming Assignments
 - There were no programming assignments for *course 3*
   
-### Course 4: Convolutional Neural Networks
+## Course 4: Convolutional Neural Networks
 
 ### Programming Assignments
 - [Week 1 - PA 1 - Convolutional Model: step by step]()
