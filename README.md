@@ -28,11 +28,11 @@ See below links to all completed programming assignments from the deeplearning.a
 ## Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
 ### Programming Assignments
-- [Week 1 - PA 1 - Initialization](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_2_neural_networks_hyperparameter_tuning_regularization_optimization/week5/Initialization/Initialization.ipynb)
-- [Week 1 - PA 2 - Regularization](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_2_neural_networks_hyperparameter_tuning_regularization_optimization/week5/Regularization/Regularization_v2a.ipynb)
-- [Week 1 - PA 3 - Gradient Checking](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_2_neural_networks_hyperparameter_tuning_regularization_optimization/week5/Gradient%20Checking/Gradient%20Checking%20v1.ipynb)
-- [Week 2 - PA 1 - Optimization Methods](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_2_neural_networks_hyperparameter_tuning_regularization_optimization/week6/Optimization_methods_v1b.ipynb)
-- [Week 3 - PA 1 - TensorFlow Tutorial](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_2_neural_networks_hyperparameter_tuning_regularization_optimization/week7/TensorFlow_Tutorial_v3b.ipynb)
+- [Week 1 - PA 1 - Initialization](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_2_neural_networks_hyperparameter_tuning_regularization_optimization/week1/Initialization/Initialization.ipynb)
+- [Week 1 - PA 2 - Regularization](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_2_neural_networks_hyperparameter_tuning_regularization_optimization/week1/Regularization/Regularization_v2a.ipynb)
+- [Week 1 - PA 3 - Gradient Checking](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_2_neural_networks_hyperparameter_tuning_regularization_optimization/week1/Gradient%20Checking/Gradient%20Checking%20v1.ipynb)
+- [Week 2 - PA 1 - Optimization Methods](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_2_neural_networks_hyperparameter_tuning_regularization_optimization/week2/Optimization_methods_v1b.ipynb)
+- [Week 3 - PA 1 - TensorFlow Tutorial](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_2_neural_networks_hyperparameter_tuning_regularization_optimization/week3/TensorFlow_Tutorial_v3b.ipynb)
 
 ### Lecture Notes
 - [Week 1](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_2_neural_networks_hyperparameter_tuning_regularization_optimization/course_notes/week_1.pdf)
