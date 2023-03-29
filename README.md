@@ -70,8 +70,17 @@ See below links to all completed programming assignments from the deeplearning.a
 ## Course 5: Sequence Models
 
 ### Programming Assignments
-- [Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step]()
-- [Week 1 - PA 2 - Character level language model - Dinosaurus land]()
+- [Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/week_1/recurrent_neural_network/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
+- [Week 1 - PA 2 - Character level language model - Dinosaurus land](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/week_1/dinosaur_island/Dinosaurus_Island_Character_level_language_model.ipynb)
+- [Week 1 - PA 3 - Jazz Improvization with LSTM](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/week_1/jazz_improvisation_with_LSTM/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4_2023_03_29_04_31_57.ipynb)
+- [Week 2 - PA 1 - Operations on Word Vectors (Vector Debiasing)](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/week_2/word_vector_debiasing/Operations_on_word_vectors_v2a.ipynb)
+- [Week 2 - PA 2 - Emojify](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/week_2/emojify/Emoji_v3a_2023_02_26_02_41_02.ipynb)
+- [Week 3 - PA 1 - Neural Machine Translation](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/week_3/neural_machine_translation/Neural_machine_translation_with_attention_v4a.ipynb)
+- [Week 3 - PA 2 - Trigger Word Detection](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/week_3/trigger_word_detection/Trigger_word_detection_v2a.ipynb)
+- [Week 4 - PA 1 - Transformer Network](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/week_4/transformer_network/C5_W4_A1_Transformer_Subclass_v1.ipynb)
+- [Week 4 - Ungraded PA 1 - Transformer Preprocessing (Embedding + Positional Encoding)](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/week_4/transformer_preprocessing/Embedding_plus_Positional_encoding.ipynb)
+- [Week 4 - Ungraded PA 2 - Transformer Application: Named Entity Recognition](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/week_4/transformer_application_named_entity_recognition/Transformer_application_Named_Entity_Recognition.ipynb)
+- [Week 4 - Ungraded PA 3 - Transformer Application: Question Answering](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/week_4/transformer_application_question_answering/QA_dataset.ipynb)
 
 ### Lecture Notes
 - [Week 1](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/course_notes/week_1.pdf)
