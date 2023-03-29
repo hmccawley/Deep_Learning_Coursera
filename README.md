@@ -52,10 +52,14 @@ See below links to all completed programming assignments from the deeplearning.a
 ## Course 4: Convolutional Neural Networks
 
 ### Programming Assignments
-- [Week 1 - PA 1 - Convolutional Model: step by step]()
-- [Week 1 - PA 2 - Convolutional Model: application]()
-- [Week 2 - PA 1 - Keras - Tutorial - Happy House]()
-- [Week 2 - PA 2 - Residual Networks]()
+- [Week 1 - PA 1 - Convolutional Model: step by step](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_4_convolutional_neural_networks/week_1/convolutional_model_step_by_step/Convolution_model_Step_by_Step_v1.ipynb)
+- [Week 1 - PA 2 - Convolutional Model: application](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_4_convolutional_neural_networks/week_1/convolutional_model_application/Convolution_model_Application.ipynb)
+- [Week 2 - PA 1 - Residual Networks](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_4_convolutional_neural_networks/week_2/residual_networks/Residual_Networks.ipynb)
+- [Week 2 - PA 2 - Transfer Learning with MobileNet](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_4_convolutional_neural_networks/week_2/transfer_learning_with_mobilenet/Transfer_learning_with_MobileNet_v1.ipynb)
+- [Week 3 - PA 1 - Car Detection with YOLO](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_4_convolutional_neural_networks/week_3/car_detection_with_YOLO/Autonomous_driving_application_Car_detection.ipynb)
+- [Week 3 - PA 2 - Image Segmentation with U-Net](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_4_convolutional_neural_networks/week_3/image_segmentation_Unet/Image_segmentation_Unet_v2.ipynb)
+- [Week 4 - PA 1 - Art Generation with Neural Style Transfer](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_4_convolutional_neural_networks/week_4/art_generation_with_neural_style_transfer/Art_Generation_with_Neural_Style_Transfer.ipynb)
+- [Week 4 - PA 2 - Face Recognition](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_4_convolutional_neural_networks/week_4/face_recognition/Face_Recognition.ipynb)
   
 ### Lecture Notes
 - [Week 1](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_4_convolutional_neural_networks/course_notes/week_1.pdf)
@@ -73,3 +77,4 @@ See below links to all completed programming assignments from the deeplearning.a
 - [Week 1](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/course_notes/week_1.pdf)
 - [Week 2](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/course_notes/week_2.pdf)
 - [Week 3](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/course_notes/week_3.pdf)
+- [Week 4](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/course_notes/week_4.pdf)
