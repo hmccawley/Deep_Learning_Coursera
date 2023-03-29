@@ -73,3 +73,4 @@ See below links to all completed programming assignments from the deeplearning.a
 - [Week 1](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/course_notes/week_1.pdf)
 - [Week 2](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/course_notes/week_2.pdf)
 - [Week 3](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/course_notes/week_3.pdf)
+- [Week 4](https://github.com/hmccawley/Deep_Learning_Coursera/blob/master/course_5_sequence_models/course_notes/week_4.pdf)
